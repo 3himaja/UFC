@@ -2,3 +2,5 @@ streamlit
 markitdown
 pdfminer.six
 pdfplumber
+pandas
+tabulate
