@@ -1,4 +1,4 @@
 streamlit
 markitdown
-pdfminer.com
+pdfminer.six
 pdfplumber
